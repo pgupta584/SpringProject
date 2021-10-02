@@ -23,7 +23,10 @@ public class ResumeController
     {
         System.out.print("Welcome to home page");
         //return "index.jsp";//Just we have to return the jsp page & return type should be String
-        return "addResume";
+        //return "addResume";
+        return "displayresume";
+
+
     }
 
     @PostMapping(value="addResume")
