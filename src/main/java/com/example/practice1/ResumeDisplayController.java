@@ -18,7 +18,7 @@ public class ResumeDisplayController
     public String home()
     {
         System.out.print("Welcome to home page");
-        return "index";//Just we have to return the jsp page & return type should be String bcz application.prop .jsp prefix added
-        //return "displayresume";
+        //return "index";//Just we have to return the jsp page & return type should be String bcz application.prop .jsp prefix added
+        return "displayresume";
     }
 }
