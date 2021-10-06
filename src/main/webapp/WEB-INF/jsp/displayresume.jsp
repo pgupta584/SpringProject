@@ -33,7 +33,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="https://img.freepik.com/free-photo/handsome-young-man-white-t-shirt-cross-arms-chest-smiling-pleased_176420-21607.jpg" style="width:100%" alt="Avatar">
+          <img src="https://i.ibb.co/wLQsMzb/IMG-20211002-211531-203.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
             <h2>QA Engineer</h2>
           </div>
@@ -203,7 +203,7 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-col l4">
   <!-- About Card -->
   <div class="w3-card w3-margin w3-margin-top">
-  <img src="https://img.freepik.com/free-photo/handsome-young-man-white-t-shirt-cross-arms-chest-smiling-pleased_176420-21607.jpg" style="width:100%">
+  <img src="https://i.ibb.co/4mTCMFR/IMG-20211002-211531-371.jpg" style="width:100%">
     <div class="w3-container w3-white">
       <h4><b>My Introduction</b></h4>
       <p>My Name is Pankaj Gupta. I love learning new things an training people. Being a Certified Udemy online tutor & teaching Manual & Automation testing across glob and having 15K+ Students.</p>
