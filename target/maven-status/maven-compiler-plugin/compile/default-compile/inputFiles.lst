@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /Users/pg/Documents/Automation_Project/MySpring/SpringProject/src/main/java/com/example/practice1/mailSenderService/homecontroller/HomeController.java
 /Users/pg/Documents/Automation_Project/MySpring/SpringProject/src/main/java/com/example/practice1/mailSenderService/MailController.java
 /Users/pg/Documents/Automation_Project/MySpring/SpringProject/src/main/java/com/example/practice1/mailSenderService/model/ResumeDisplayController.java
@@ -14,3 +15,9 @@
 /Users/pg/Documents/Automation_Project/MySpring/SpringProject/src/main/java/com/example/practice1/mailSenderService/DummyMailSending.java
 /Users/pg/Documents/Automation_Project/MySpring/SpringProject/src/main/java/com/example/practice1/DemoApplication.java
 /Users/pg/Documents/Automation_Project/MySpring/SpringProject/src/main/java/com/example/practice1/mailSenderService/LiveMailSend.java
+=======
+/Users/pg/Documents/Automation_Project/MySpring/PankajResume/src/main/java/com/example/practice1/HelloController.java
+/Users/pg/Documents/Automation_Project/MySpring/PankajResume/src/main/java/com/example/practice1/DemoApplication.java
+/Users/pg/Documents/Automation_Project/MySpring/PankajResume/src/main/java/com/example/practice1/ResumeDisplayController.java
+/Users/pg/Documents/Automation_Project/MySpring/PankajResume/src/main/java/com/example/practice1/mailSenderService/homecontroller/BindingProviderProperties.java
+>>>>>>> 3174df623b76f3e6be593e34217727a0a23c877a

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head><title>W3.CSS Template</title>
+<html><head><title>Pankaj Gupta Resume</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -16,7 +16,11 @@ and is wrapped around the whole page content, except for the footer in this exam
 <!-- Header -->
 <header class="w3-container w3-center w3-padding-32">
   <h1><b>Pankaj Gupta</b></h1>
+<<<<<<< HEAD
   <p>Sr. SDET - Directi (Ex-Obopay,HARMAN) </p>
+=======
+  <p>Lead QA Engineer (QA-Automation)-Directi (Ex-Obopay,HARMAN) </p>
+>>>>>>> 3174df623b76f3e6be593e34217727a0a23c877a
     <p>Automation enthusiast. Aiming to contribute in improving Quality by Automating different Web/API Front-end & back-end </p>
 </header>
 
@@ -33,9 +37,13 @@ and is wrapped around the whole page content, except for the footer in this exam
 
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
+<<<<<<< HEAD
           <img src="https://i.ibb.co/PgVS19t/IMG-20211002-211531-203.jpg" style="width:100%" alt="Avatar">
+=======
+          <img src="https://i.ibb.co/wLQsMzb/IMG-20211002-211531-203.jpg" style="width:100%" alt="Avatar">
+>>>>>>> 3174df623b76f3e6be593e34217727a0a23c877a
           <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>QA Engineer</h2>
+            <h2>pgupta584</h2>
           </div>
         </div>
         <div class="w3-container">
@@ -188,7 +196,7 @@ and is wrapped around the whole page content, except for the footer in this exam
       <p>Got Outstanding & Stellar Award for doing a great job in my Project & Automation. Automated 80% of API used in application and define service alert for each services which is failing. created an Alert mechanism which will notify every one hour if any services are down </p>
       <div class="w3-row">
         <div class="w3-col m8 s12">
-          <p><button class="w3-button w3-padding-large w3-white w3-border"><b>Done Many more.. »</b></button></p>
+          <p><button class="w3-button w3-padding-large w3-white w3-border"><b>Done Many More »</b></button></p>
         </div>
         <div class="w3-col m4 w3-hide-small">
           <p><span class="w3-padding-large w3-right"><b>Comments &nbsp;</b> <span class="w3-badge">584</span></span></p>
@@ -203,7 +211,11 @@ and is wrapped around the whole page content, except for the footer in this exam
 <div class="w3-col l4">
   <!-- About Card -->
   <div class="w3-card w3-margin w3-margin-top">
+<<<<<<< HEAD
   <img src="https://i.ibb.co/qFBKHL8/Udemy-My-Course-High-Rated.png" style="width:100%">
+=======
+  <img src="https://i.ibb.co/4mTCMFR/IMG-20211002-211531-371.jpg" style="width:100%">
+>>>>>>> 3174df623b76f3e6be593e34217727a0a23c877a
     <div class="w3-container w3-white">
       <h4><b>My Introduction</b></h4>
       <p>My Name is Pankaj Gupta. I love learning new things an training people. Being a Certified Udemy online tutor & teaching Manual & Automation testing across glob and having 15K+ Students.</p>
@@ -272,8 +284,6 @@ and is wrapped around the whole page content, except for the footer in this exam
   <i class="fa fa-pinterest-p w3-hover-opacity"></i>
   <i class="fa fa-twitter w3-hover-opacity"></i>
   <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">Pankaj Gupta</a></p>
+  <p>Powered by <a href="https://www.udemy.com/user/pankaj-gupta-128/" target="_blank">Pankaj Gupta</a></p>
 </footer>
-
-
 </body></html>

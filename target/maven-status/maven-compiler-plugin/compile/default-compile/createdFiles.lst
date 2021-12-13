@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 com/example/practice1/MailConfig.class
 com/example/practice1/HelloController.class
 com/example/practice1/DemoApplication.class
@@ -13,3 +14,9 @@ com/example/practice1/mailSenderService/model/AddEmployee.class
 com/example/practice1/mailSenderService/model/EmployeeController.class
 com/example/practice1/mailSenderService/DummyMailSending.class
 com/example/practice1/mailSenderService/model/ResumeController.class
+=======
+com/example/practice1/HelloController.class
+com/example/practice1/mailSenderService/homecontroller/BindingProviderProperties.class
+com/example/practice1/DemoApplication.class
+com/example/practice1/ResumeDisplayController.class
+>>>>>>> 3174df623b76f3e6be593e34217727a0a23c877a
