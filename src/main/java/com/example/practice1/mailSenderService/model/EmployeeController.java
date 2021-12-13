@@ -57,6 +57,7 @@ public class EmployeeController
 		return  "viewEmployee";	
 	}
 	*/
+	/*
 	@PostMapping(value="addEmployee")
 	public String add(@ModelAttribute AddEmployee e)
 	{
@@ -72,5 +73,7 @@ public class EmployeeController
 		m.addAttribute("result", employee);
 		return "viewEmployeeList";// Now we need to create a jsp for results	
 	}
+
+	 */
 	
 }
