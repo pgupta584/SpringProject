@@ -16,9 +16,9 @@ and is wrapped around the whole page content, except for the footer in this exam
 <!-- Header -->
 <header class="w3-container w3-center w3-padding-32">
   <h1><b>Pankaj Gupta</b></h1>
-  <p>Sr. SDET - Directi (Ex-Obopay,HARMAN) </p>
-  <p>Lead QA Engineer (QA-Automation)- Directi (Ex-Obopay,HARMAN) </p>
-    <p>Automation enthusiast. Aiming to contribute in improving Quality by Automating different Web/API Front-end & back-end </p>
+  <p>Software Development Engineer in Test (SDET) - Directi (Ex-Obopay,HARMAN) </p>
+  <p>Automation enthusiast. Aiming to contribute in improving Quality by Automating different Web/API Front-end & back-end </p>
+  <p>Proficient with testing tool sets like Selenium WebDriver, Selenium Grid, Maven, JUnit/TestNg, POSTMAN, Cucumber, Jira, JDBC, REST-Assured,Springboot and Git/GitHub/Bitbucket </p>
 </header>
 
 
@@ -40,7 +40,7 @@ and is wrapped around the whole page content, except for the footer in this exam
           </div>
         </div>
         <div class="w3-container">
-          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Lead QA Engineer</p>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sr. SDET</h6>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Bangalore, India</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>pgupta584@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>8094516159</p>
@@ -59,7 +59,7 @@ and is wrapped around the whole page content, except for the footer in this exam
           </div>
           <p>Java & Automation Framework</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">70%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">80%</div>
           </div>
           <p>Springboot and Mobile App Testing</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
@@ -80,6 +80,10 @@ and is wrapped around the whole page content, except for the footer in this exam
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:80%"></div>
           </div>
+          <p>communication and interpersonal</p>
+            <div class="w3-light-grey w3-round-xlarge">
+              <div class="w3-round-xlarge w3-teal" style="height:24px;width:90%"></div>
+            </div>
           <br>
         </div>
       </div><br>
@@ -91,9 +95,9 @@ and is wrapped around the whole page content, except for the footer in this exam
     <div class="w3-twothird">
 
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <h2 class="w3-text-teal"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Lead QA Engineer / Directi </b></h5>
+          <h5 class="w3-opacity"><b>Sr. SDET / Directi </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>April 2019 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p>Working on different Automation tool like Selenium, Rest Assured, Springboot and many more.
              Automated different services API and project web Portal.</p>
@@ -115,7 +119,7 @@ and is wrapped around the whole page content, except for the footer in this exam
       </div>
 
       <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <h2 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Rajasthan Technical University Kota</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2014</h6>
@@ -133,8 +137,17 @@ and is wrapped around the whole page content, except for the footer in this exam
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2007 - 2008</h6>
           <p>Matriculation Science with 1st Div. 72% from</p><br>
         </div>
+        <div class="w3-twothird">
+              <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <div class="w3-container">
+          <h2 class="w3-text-teal"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Certifications</h2>
+          <img src="https://www.gasq.org/files/content/gasq/downloads/certification/ISTQB/ISTQB.png" alt="Image" class="w3-right w3-margin-left" style="width:200px">
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>ISTQB</h6>
+          <p>ISTQB Certified Tester with 88% Scored </p><br>
+        </div>
       </div>
-
+      </div>
+      </div>
     <!-- End Right Column -->
     </div>
 
@@ -193,6 +206,28 @@ and is wrapped around the whole page content, except for the footer in this exam
         </div>
         <div class="w3-col m4 w3-hide-small">
           <p><span class="w3-padding-large w3-right"><b>Comments &nbsp;</b> <span class="w3-badge">584</span></span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+<!-- END BLOG ENTRIES -->
+
+<!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQ3TWEbVH4kCd7SNfzx6XNKL6wjnjRcVkFsxTTKkyPh6eVZVKVLX4xTKrxo32M1uM164&usqp=CAU" alt="India" width="900" height="300">
+    <div class="w3-container">
+      <h3><b>Ultimate Team Award</b></h3>
+      <h5>Org. Level Achievement while working in a Team, <span class="w3-opacity">April, 2021</span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p>Got Ultimate Team Award Award for doing a great job in my Project & Automation. Working in a team and showed that I am also a good team player as well as Individual contributer. Got many appreciation from leadership for doing good job</p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+          <p><button class="w3-button w3-padding-large w3-white w3-border"><b>Done Many More .</b></button></p>
+        </div>
+        <div class="w3-col m4 w3-hide-small">
+          <p><span class="w3-padding-large w3-right"><b>Comments &nbsp;</b> <span class="w3-badge">500+</span></span></p>
         </div>
       </div>
     </div>
